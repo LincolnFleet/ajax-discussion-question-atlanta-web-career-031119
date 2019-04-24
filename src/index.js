@@ -1,3 +1,5 @@
+let questions='Group finished'
+
 const fullname = document.getElementById("fullname");
 console.log("CONTENT NOT YET LOADED!", fullname); //what will fullname evaluate to?
 
